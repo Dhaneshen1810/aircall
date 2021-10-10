@@ -23,3 +23,21 @@
   padding: 20px;
 }
 
+.flexRow {
+  display: flex;
+  flex-direction: row;
+}
+
+.flexColumn {
+  display: flex;
+  flex-direction: column;
+}
+
+.justifyBetween {
+  justify-content: space-between;
+  margin: 5px 0;
+}
+
+.alignCenter {
+  align-items: center;
+}

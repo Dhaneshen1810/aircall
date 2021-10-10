@@ -1,0 +1,59 @@
+.activity{
+    width: 100%;
+    border: solid 1px grey;
+    border-radius: 5px;
+    margin: 10px 0;
+    padding: 5px;
+}
+
+.activity:hover {
+    background-color: rgb(226, 226, 226);
+    cursor: pointer;
+}
+
+.leftSection {
+    flex: 1;
+}
+
+.middleSection {
+    flex: 4;
+    justify-content: center;
+}
+
+.rightSection {
+    flex: 2;
+    justify-content: center;
+}
+
+.textTo {
+    color: black;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: Verdana, sans-serif;
+    margin: 3px;
+}
+
+.textFrom {
+    color: grey;
+    font-size: 12px;
+    font-family: Verdana, sans-serif;
+    margin: 3px;
+}
+
+.timeBox {
+    border-left: dotted grey 1px;
+    color: grey;
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 22px;
+}
+
+.dateSection {
+    font-family: Verdana, sans-serif;
+    color: grey;
+    font-size: 18px;
+    justify-content: center;
+  }
