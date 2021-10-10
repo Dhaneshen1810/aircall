@@ -18,9 +18,9 @@
     "babel-upgrade": "^1.0.1",
     "bootstrap": "^5.1.1",
     "moment": "^2.29.1",
-    "react": "^16.3.1",
+    "react": "^17.0.0",
     "react-bootstrap": "^2.0.0-rc.0",
-    "react-dom": "^16.3.1",
+    "react-dom": "^17.0.0",
     "react-toastify": "^8.0.3"
   },
   "devDependencies": {
